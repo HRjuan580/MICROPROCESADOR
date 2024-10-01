@@ -13,7 +13,7 @@ La arquitectura de un microprocesador define su diseño y funcionalidad. Existen
    - Permite una ejecución más rápida.
 
 ![image](![image](https://github.com/user-attachments/assets/1cd50e0a-0f86-47b3-9f02-0b37f2f77c05))
-
+![image](https://github.com/user-attachments/assets/8d567fb6-eea1-45b5-920c-d42c7405ab7d)
 
 ## Componentes Clave
 
