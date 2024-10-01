@@ -12,7 +12,8 @@ La arquitectura de un microprocesador define su diseño y funcionalidad. Existen
    - Conjunto de instrucciones más simple y eficiente.
    - Permite una ejecución más rápida.
 
-![Arquitectura RISC vs CISC](https://example.com/risc_vs_cisc.jpg) <!-- Reemplaza con una URL válida -->
+(![image](https://github.com/user-attachments/assets/9567ecde-b0af-453f-b82e-ee69d863633c)
+
 
 ## Componentes Clave
 
