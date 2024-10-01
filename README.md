@@ -4,8 +4,8 @@ Bienvenido al repositorio sobre **microprocesadores**. Aquí encontrarás inform
 
 ## Contenido
 
-- [Arquitectura de Microprocesadores](arquitectura/arquitectura.md)
-- [Historia de los Microprocesadores](arquitectura/historia.md)
+- [Arquitectura de Microprocesadores]
+- [Historia de los Microprocesadores]
 
 ![image](https://github.com/user-attachments/assets/8d567fb6-eea1-45b5-920c-d42c7405ab7d)
 
