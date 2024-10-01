@@ -16,7 +16,7 @@ Los microprocesadores han revolucionado la computación, permitiendo el desarrol
 - **Teléfonos inteligentes**
 - **Dispositivos IoT**
 
-![Evolución del Microprocesador](![image](https://github.com/user-attachments/assets/5f831ed2-ef00-4616-bd10-74c0f03a9728)
+![image](https://github.com/user-attachments/assets/5f831ed2-ef00-4616-bd10-74c0f03a9728)
 
 ## Más información
 
