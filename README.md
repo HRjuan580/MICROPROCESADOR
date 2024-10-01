@@ -7,7 +7,7 @@ Bienvenido al repositorio sobre **microprocesadores**. Aquí encontrarás inform
 - [Arquitectura de Microprocesadores](arquitectura/arquitectura.md)
 - [Historia de los Microprocesadores](arquitectura/historia.md)
 
-![Microprocesador](https://example.com/image.jpg) <!-- Reemplaza con una URL válida -->
+![Microprocesador](![image](https://github.com/user-attachments/assets/8d567fb6-eea1-45b5-920c-d42c7405ab7d)
 
 ## ¿Qué es un microprocesador?
 
