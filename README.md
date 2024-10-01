@@ -12,7 +12,3 @@ Bienvenido al repositorio sobre **microprocesadores**. Aquí encontrarás inform
 ## ¿Qué es un microprocesador?
 
 Un **microprocesador** es el cerebro de una computadora, responsable de ejecutar instrucciones y procesar datos.
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas agregar información, por favor haz un **fork** del repositorio y envía un **pull request**.
