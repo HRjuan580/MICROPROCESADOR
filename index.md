@@ -1,5 +1,3 @@
-# Microprocesadores
-
 Bienvenido al repositorio sobre **microprocesadores**. Aquí encontrarás información sobre su historia, arquitectura y más.
 
 ## Contenido
